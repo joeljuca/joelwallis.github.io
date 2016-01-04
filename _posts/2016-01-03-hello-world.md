@@ -2,6 +2,7 @@
 published: true
 layout: post
 title: Hello world
+permalink: hello-world.html
 date: 2016-01-03T03:30:00.000Z
 ---
 
