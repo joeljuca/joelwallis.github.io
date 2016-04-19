@@ -12,4 +12,4 @@ But I believe I must try again, because everyone should share knowledge.
 
 The main purpose of this blog is to share technical knowledge about software development and Computer Science, and sometimes relevant opinions about things related to these topics.
 
-Also, [this blog is Open Source](https://github.com/joelwallis/joelwallis.github.io). It's built with [Jekyll](http://jekyllrb.com/) and hosted by [GitHub Pages](https://pages.github.com/). I'll be using it's [issue tracker](https://github.com/joelwallis/joelwallis.github.io/issues) to manage blogging tasks, so feel free to create an issue to request a blog post about something you want me writing about, suggest content or code improvements, etc. :-)
+Also, [this blog is Open Source](https://github.com/joelwallis/joelwallis.github.io). It's built with [Jekyll](http://jekyllrb.com/) and hosted by [GitHub Pages](https://pages.github.com/). I'll be using its [issue tracker](https://github.com/joelwallis/joelwallis.github.io/issues) to manage blogging tasks, so feel free to create an issue to request a blog post about something you want me writing about, suggest content or code improvements, etc. :-)
