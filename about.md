@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Joel Wallis, a brazilian software developer. I can't remember how many blogs I created and abandoned. Blogging is difficult, and blogging relevant and useful things is even more! Sharing knowledge with an easy to understand language is an art and I admire people who get it done quickly.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+But I believe I must try again, because everyone should share knowledge.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+The main purpose of this blog is to share technical knowledge about software development and Computer Science, and sometimes relevant opinions about things related to these topics.
+
+Also, [this blog is Open Source](https://github.com/joelwallis/joelwallis.github.io). It's built with [Jekyll](http://jekyllrb.com/) and hosted by [GitHub Pages](https://pages.github.com/). I'll be using its [issue tracker](https://github.com/joelwallis/joelwallis.github.io/issues) to manage blogging tasks, so feel free to create an issue to request a blog post about something you want me writing about, suggest content or code improvements, etc. :-)
