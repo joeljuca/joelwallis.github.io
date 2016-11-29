@@ -9,4 +9,21 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article><!-- /.post-content -->
+  <aside>
+    <!-- starts disqus -->
+    <div id="disqus_thread"></div>
+    <script>
+    (function(d, s){
+    d = document, s = d.createElement('script');
+    s.src = '//joelwallis.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', Date.now());
+    (d.head || d.body).appendChild(s);
+    })();
+    </script>
+    <noscript>
+      Please enable JavaScript to view the
+      <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+    <!-- ends disqus -->
+  </aside>
 </div><!-- /.post -->
