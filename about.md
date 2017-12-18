@@ -3,17 +3,11 @@ layout: page
 title: About
 ---
 
-**Me (Cover Letter)**
+I'm Joel Wallis, a Brazilian software developer from Fortaleza, Brazil. Programming is my hobby since 2002 and my work since 2005. During this time I worked for and with companies from Africa, Central and North Americas, and Europe, both as front-end and back-end developer.
 
-I'm Joel Wallis, a Brazilian full-stack Web developer currently living in Fortaleza, Brazil. Webdev is my hobby since 2002 and my work since 2005. During that time I worked for/with companies from Africa, Europe and Central/North America continents, both as front-end and back-end developer.
-
-My programming languages are [Bash](https://www.gnu.org/software/bash/), [JavaScript](https://pt.wikipedia.org/wiki/JavaScript), [PHP](https://php.net), and [Ruby](https://www.ruby-lang.org), and I'm currently learning [Elixir](https://elixir-lang.org/) and [Python](https://www.python.org/). I'm also proactive with tools like [Bootstrap](https://getbootstrap.com), [AngularJS](https://angularjs.org), [Drupal](https://www.drupal.org), [Node.js](https://nodejs.org), and [Ruby on Rails](http://rubyonrails.org).
+My programming languages are [Bash](https://www.gnu.org/software/bash/), [JavaScript](https://pt.wikipedia.org/wiki/JavaScript), [PHP](https://php.net), and [Ruby](https://www.ruby-lang.org), and I'm currently learning functional programming with [Elixir](https://elixir-lang.org). I'm also proactive with tools like [Bootstrap](https://getbootstrap.com), [AngularJS](https://angularjs.org), [Drupal](https://www.drupal.org), [Node.js](https://nodejs.org), and [Ruby on Rails](http://rubyonrails.org).
 
 I'm also an enthusiastic user of UNIX-like systems, very comfortable with services like [Apache](https://httpd.apache.org), [Nginx](https://nginx.org) and [MySQL](https://www.mysql.com). [ZSH](http://zsh.org), [tmux](https://tmux.github.io) and [Vim](http://www.vim.org) are frequent tools in my daily hacking.
-
-Additional languages/tools: [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets), [960 Grid System](http://960.gs), [Blueprint](http://blueprintcss.org), [Express](http://expressjs.com), [Sails.js](http://sailsjs.com), [SQL](https://en.wikipedia.org/wiki/SQL), [CouchDB](https://couchdb.apache.org) and [PouchDB](https://pouchdb.com).
-
-Please check my LinkedIn profile for more info: [www.linkedin.com/in/joelwallis](https://www.linkedin.com/in/joelwallis)
 
 **The blog**
 
