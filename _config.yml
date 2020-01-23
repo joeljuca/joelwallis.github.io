@@ -1,4 +1,4 @@
-title: Joel Wallis Jucá
+title: Joel Jucá
 description: Sharing technical knowledge and opinions about software development.
 url: "http://joelwallis.com"
 twitter_username: joelwallis1
@@ -7,4 +7,4 @@ github_username:  joelwallis
 # Build settings
 encoding: utf-8
 markdown: kramdown
-timezone: America/Sao_Paulo
+timezone: America/Recife
